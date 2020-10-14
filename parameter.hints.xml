@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.pipaw.pipawpay.PipawSDK.onDestroy(activity)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

@@ -1,0 +1,321 @@
+<templateSet group="user">
+  <template name="_width" value="android:layout_width=&quot;match_parent&quot;&#10;android:layout_height=&quot;wrap_content$HEIGHT$&quot;" description="_width" toReformat="false" toShortenFQNames="true">
+    <variable name="HEIGHT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="bmp_file" value="Bitmap $var$ = BitmapFactory.decodeFile($Content$);" description="decodeFile" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="bmp_res" value="Bitmap $var$ = BitmapFactory.decodeResource($resource$, R.id.$resId$);" description="decodeResource" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="resource" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="bmp_strm" value="Bitmap $var$ = BitmapFactory.decodeStream($Content$);" description="decodeStream" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="click" value="public void click(View view) {&#10;    $Content$&#10;}" description="click event" toReformat="false" toShortenFQNames="true">
+    <variable name="Content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="conststr" value="private static final String $var$ = &quot;$Content$&quot;;" description="const str" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fdv" value="findViewById(R.id.$resId$);" description="findViewById" toReformat="false" toShortenFQNames="true">
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fdv_child" value="$root$.findViewById(R.id.$resId$);" description="(root)(cast)findViewById" toReformat="false" toShortenFQNames="true">
+    <variable name="root" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fdvc" value="($cast$) findViewById(R.id.$resId$);" description="(cast)findViewById" toReformat="false" toShortenFQNames="true">
+    <variable name="cast" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fdvc_child" value="($cast$) $root$.findViewById(R.id.$resId$);" description="(cast)(root)findViewById" toReformat="false" toShortenFQNames="true">
+    <variable name="cast" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="root" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="feach" value="for ($i$ : $data$) { &#10;    $cursor$ &#10;}" description="for each" toReformat="false" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fiter" value="for ($i$=$start$; $i$&lt;$end$; $i$++) { &#10;    $cursor$&#10;}" description="for" toReformat="false" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="start" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fiter_with_init" value="for (int $i$=$start$; $i$&lt;$end$; $i$++) { &#10;    $cursor$&#10;}" description="for init" toReformat="false" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="start" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for (int i = 0; i &lt; $length$; i++) {&#10;    $content$&#10;}" description="for" toReformat="false" toShortenFQNames="true">
+    <variable name="length" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fore" value="for ($iterable_type$ $iterable_element$ : $iterable$) {&#10;&#9;$cursor$&#10;}" description="for each" toReformat="false" toShortenFQNames="true">
+    <variable name="iterable_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="iterable_element" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="getsp" value="SharedPreferences $var$ = getSharedPreferences(&quot;$Content$&quot;, MODE_PRIVATE);" description="getSharedPreferences" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ifelse" value="if ($Cursor$) {&#10;    $Content$&#10;} else {&#10;    $Content2$&#10;}" description="if else" toReformat="false" toShortenFQNames="true">
+    <variable name="Cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Content2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ifelseif" value="if ($Cursor$) {&#10;    $Content$&#10;} else if ($Cursor2$){&#10;    $Content2$&#10;}" description="if else if" toReformat="false" toShortenFQNames="true">
+    <variable name="Cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Cursor2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Content2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ifelseifelse" value="if ($Cursor$) {&#10;    $Content$&#10;} else if ($Cursor2$){&#10;    $Content2$&#10;} else {&#10;    $Content3$&#10;}" description="if elseif else" toReformat="false" toShortenFQNames="true">
+    <variable name="Cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Cursor2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Content2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Content3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="iid" value="android:id=&quot;@+id/$ID$&quot;" description="iid" toReformat="false" toShortenFQNames="true">
+    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="isempty" value="TextUtils.isEmpty($Content$)" description="TextUtils.isEmpty" toReformat="false" toShortenFQNames="true">
+    <variable name="Content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ld" value="Log.d(TAG, &quot;$method_name$&quot; + $content$);" description="Log.d" toReformat="false" toShortenFQNames="true">
+    <variable name="method_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="le" value="Log.e(TAG, &quot;$method_name$&quot; + $content$);" description="Log.e" toReformat="false" toShortenFQNames="true">
+    <variable name="method_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="li" value="Log.i(TAG, &quot;$method_name$&quot; + $content$);" description="Log.i" toReformat="false" toShortenFQNames="true">
+    <variable name="method_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lv" value="Log.v(TAG, &quot;$method_name$&quot; + $content$);" description="Log.v" toReformat="false" toShortenFQNames="true">
+    <variable name="method_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lw" value="Log.w(TAG, &quot;$method_name$&quot; + $content$);" description="Log.w" toReformat="false" toShortenFQNames="true">
+    <variable name="method_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String[] args) {&#10;    $Cursor$&#10;}" description="java main method" toReformat="false" toShortenFQNames="true">
+    <variable name="Cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="newintent" value="Intent intent = new Intent(this, $Name$.class);" description="new Intent" toReformat="false" toShortenFQNames="true">
+    <variable name="Name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="note1" value="/**$note$*/" description="note1" toReformat="false" toShortenFQNames="true">
+    <variable name="note" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="note2" value="/*--------------- $note$ ---------------*/" description="note2" toReformat="false" toShortenFQNames="true">
+    <variable name="note" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="note3" value="/*=============== $note$ ===============*/" description="note3" toReformat="false" toShortenFQNames="true">
+    <variable name="note" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="note4" value="/*############### $note$ ###############*/" description="note4" toReformat="false" toShortenFQNames="true">
+    <variable name="note" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="note5" value="/*#######################################*/" description="note5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="note_" value="/*-----------------$note$--------------------*/" description="note_" toReformat="false" toShortenFQNames="true">
+    <variable name="note" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="obtmsg" value="Message $var$ = Message.obtain();&#10;$var$.what = 0;&#10;$var$.obj = $Content$;" description="Message.obtain();" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sfi" value="public static final int $VAR$ = $VALUE$;" description="static final int" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sfs" value="public static final String $VAR$ = $VALUE$;" description="static final string" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="str_trim" value="String $var$ =  $cursor$.getText().toString().trim();" description="string.getText().toString().trim()" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sw" value="switch ($key$) {&#10;    case $value$:&#10;&#10;        break;&#10;&#10;    default:&#10;        break;&#10;}" description="switch" toReformat="false" toShortenFQNames="true">
+    <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="syso" value="System.out.println(&quot;$END$&quot;);" description="syso" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sysof" value="java.lang.System.out.println(&quot;--------------$note$--------------&quot;);" description="sysof" toReformat="false" toShortenFQNames="true">
+    <variable name="note" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tag" value="private static final String TAG = &quot;$class_name$&quot;;" description="TAG" toReformat="false" toShortenFQNames="true">
+    <variable name="class_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="toast" value="Toast.makeText(this,&quot;$CONTENT$&quot;,android.widget.Toast.LENGTH_SHORT).show();" description="toast" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="try" value="try {&#10;    $cursor$&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;}" description="try catch" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="view_inf" value="$cast$ $var$ = ($cast$) $root$.inflate(this, R.layout.$resId$, null);" description="View.inflate" toReformat="false" toShortenFQNames="true">
+    <variable name="cast" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="root" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="while" value="while ($cursor$) {&#10;    $content$&#10;}" description="while" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

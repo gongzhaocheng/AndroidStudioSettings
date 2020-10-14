@@ -1,0 +1,76 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="The set is backed by the map, so changes to the map are" />
+      <item value="Returns a {@link Set} view of the keys contained in this map." />
+      <item value=" Invalid Layer Save Flag - only ALL_SAVE_FLAGS is allowed" />
+      <item value="AUDIENCE" />
+      <item value="Unable to strip library '/Users/Project/GitLab/rsdk-client-plugin-android/Android/GameChannelProject/lzjh/37jpGoogle_1005006001/app/build/intermediates/merged_native_libs/release/out/lib/armeabi/libA3AEECD8.so' due to missing strip tool for ABI 'ARMEABI'. Packaging it as is." />
+      <item value="Unable to strip library " />
+      <item value="Packaging it as is" />
+      <item value="compile Sdk Version" />
+      <item value="annotations" />
+      <item value="implementation" />
+      <item value="For Cygwin, switch paths to Windows format before running java" />
+      <item value="For Darwin, add options to specify how the application appears in the dock" />
+      <item value="Determine the Java command to use to start the JVM." />
+      <item value="OS specific support (must be 'true' or 'false')." />
+      <item value="Use the maximum available, or set MAX_FD != -1 to use that value." />
+      <item value="Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script." />
+      <item value="by default we should be in the correct project dir, but when run from Finder on Mac, the cwd is wrong" />
+      <item value="Collect all arguments for the java command, following the shell quoting and substitution rules" />
+      <item value="Escape application args" />
+      <item value="Operation timed out (Connection timed out). If you are behind an HTTP proxy, please configure the proxy settings either in IDE or Gradle." />
+      <item value="Packaging it as is." />
+      <item value="Fix Gradle wrapper and re-import project" />
+      <item value="Minimum supported Gradle version is 6.1.1. Current version is 5.6.4." />
+      <item value="on Rewarded Video Completed" />
+      <item value="on Rewarded Video Started" />
+      <item value="on Rewarded Video Ad Opened" />
+      <item value="on Rewarded Video Ad Loaded" />
+      <item value="on Rewarded Video Ad Failed To Load" />
+      <item value="on Rewarded Video Ad Closed" />
+      <item value="Rewarded Video Ad Left Application" />
+      <item value="on Rewarded Video Ad Left Application" />
+      <item value="on Rewarded" />
+      <item value="Program type already present" />
+      <item value="release" />
+      <item value="Performance tips:" />
+      <item value="About screen tests Graphviz installation" />
+      <item value="PlantUML code can be placed anywhere, '*' are ignored for usage in Java comments" />
+      <item value="To render other than sequence diagram types, install Graphviz and set path to it" />
+      <item value="Open file, put the cursor inside of the PlantUML code to render it" />
+      <item value="row" />
+      <item value="The current event state of the parser can be determined by calling the getEventType() method. Initially, the parser is in the START_DOCUMENT state." />
+      <item value="There are two key methods: next() and nextToken(). While next() provides access to high level parsing events, nextToken() allows access to lower level tokens." />
+      <item value="The method next() advances the parser to the next event. The int value returned from next determines the current parser state and is identical to the value returned from following calls to getEventType ()." />
+      <item value="Note that the decision may be retained for use in response to future SSL errors. The default behavior is to cancel the load." />
+      <item value="The host application must call either handler.cancel() or handler.proceed()." />
+      <item value="Notify the host application that an SSL error occurred while loading a resource." />
+      <item value="Notify the host application that an SSL error occurred while loading a resource. The host application must call either handler.cancel() or handler.proceed(). Note that the decision may be retained for use in response to future SSL errors. The default behavior is to cancel the load" />
+      <item value="An XML start tag was read." />
+      <item value="Th following event types are seen by next()" />
+      <item value="The int value returned from next determines the current parser state and is identical to the value returned from following calls to getEventType ()." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="372" />
+        <entry key="ENGLISH" value="373" />
+        <entry key="FRENCH" value="1" />
+        <entry key="KOREAN" value="3" />
+        <entry key="DUTCH" value="1" />
+        <entry key="MALAGASY" value="1" />
+        <entry key="JAPANESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
+  </component>
+</application>
