@@ -2,8 +2,48 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/blue_btn.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/drawable/button_bg.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/drawable/button_gray_bg.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/drawable/cloud_phone_float_view_bg.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/drawable/cloud_phone_running_tips_bg.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/drawable/dialog_privacy_bg.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/drawable/download_float_btn.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/drawable/home_item_grid3_text_bg.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_about.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/activity_account.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/activity_iap.xml" value="0.18704710144927536" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.18704710144927536" />
+        <entry key="app/src/main/res/layout/activity_play.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/activity_privacy_policy.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/activity_terms.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/cloud_phone_float_menu.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/cloud_phone_float_menu_panel.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/dialog_exit.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/dialog_loading.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/dialog_privacy.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/download_float_area.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/download_notification.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/finished_dialog.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/fragment_me.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/gamelist_activity.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/gb_floating_view_layout.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/home_item_grid3.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/home_item_list.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/home_item_title.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/loading_view.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/page_loading.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/search_item_btn.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/search_item_remote_text.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/search_item_text.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/search_item_title.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/slogin_foot_view.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/splash_activity.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/titlebar.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.22037037037037038" />
       </map>
     </option>
   </component>
