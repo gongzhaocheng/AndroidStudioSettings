@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.16203703703703703" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15" />
         <entry key="app/src/main/res/drawable/blue_btn.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/button_bg.xml" value="0.24791666666666667" />
@@ -58,6 +58,7 @@
         <entry key="kpcplib/src/main/res/layout/kpcp_activity_pay.xml" value="0.1" />
         <entry key="kpcplib/src/main/res/layout/kpcp_activity_webview.xml" value="0.1" />
         <entry key="kpcplib/src/main/res/layout/kpcp_dialog_pay.xml" value="0.1" />
+        <entry key="kpcplib/src/main/res/layout/kpcp_view_pay_order.xml" value="0.1" />
       </map>
     </option>
   </component>
