@@ -2,7 +2,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="1.0" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="KpGameKit/src/main/res/layout/kp_dialog_game_exit.xml" value="0.1" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15" />
         <entry key="app/src/main/res/drawable/blue_btn.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/button_bg.xml" value="0.24791666666666667" />
