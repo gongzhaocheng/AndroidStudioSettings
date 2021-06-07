@@ -31,6 +31,7 @@
         <entry key="app/src/main/res/layout/dialog_exit.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/dialog_loading.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/dialog_privacy.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/dialog_user_certification.xml" value="0.17527173913043478" />
         <entry key="app/src/main/res/layout/download_float_area.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/download_notification.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/finished_dialog.xml" value="0.11322188449848024" />
