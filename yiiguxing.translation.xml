@@ -64,13 +64,15 @@
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1623835342345" />
+  </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
-    <option name="ignoreRegExp" value="" />
     <option name="keepFormat" value="true" />
   </component>
 </application>
