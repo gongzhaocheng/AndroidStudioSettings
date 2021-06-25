@@ -2,11 +2,44 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="KpGameKit/src/main/res/layout/kp_activity_game_play.xml" value="0.12760416666666666" />
-        <entry key="KpGameKit/src/main/res/layout/kp_dialog_game_exit.xml" value="0.1" />
-        <entry key="KpGameKit/src/main/res/layout/kp_dialog_record_publish.xml" value="0.15677083333333333" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.37083333333333335" />
+        <entry key="KpGameKit/src/main/res/layout/kp_activity_account.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_activity_game_play.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_activity_pay.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_activity_webview.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_ad_popup_feed.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_ad_popup_layout.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_ad_remind_dialog.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_dialog_exit.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_dialog_exit_item.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_dialog_exit_item_1.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_dialog_float_menu_panel.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_dialog_game_exit.xml" value="0.20425724637681159" />
+        <entry key="KpGameKit/src/main/res/layout/kp_dialog_loading.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_dialog_login.xml" value="0.1" />
+        <entry key="KpGameKit/src/main/res/layout/kp_dialog_pay.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_dialog_record_publish.xml" value="0.20425724637681159" />
+        <entry key="KpGameKit/src/main/res/layout/kp_dialog_timeout.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_dialog_youhui.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_down_notify.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_download_notification.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_layout_youhui_item.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_view_default_loading.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_view_float_down.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_view_float_menu.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_view_floating_bar.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_view_floating_downbtn.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_view_loading.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_view_login.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_view_login_phone.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_view_login_psw.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_view_play_error.xml" value="0.33469202898550726" />
         <entry key="KpGameKit/src/main/res/layout/kp_view_play_settings.xml" value="0.1" />
+        <entry key="KpGameKit/src/main/res/layout/kp_view_record.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_view_record_float.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/kp_view_regist.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/layout_dialog_default.xml" value="0.33469202898550726" />
+        <entry key="KpGameKit/src/main/res/layout/view_loading_xiaoyu.xml" value="0.33469202898550726" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15" />
         <entry key="app/src/main/res/drawable/blue_btn.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/button_bg.xml" value="0.24791666666666667" />
