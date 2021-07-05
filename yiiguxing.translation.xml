@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Primitive" />
+      <item value="to Generic String" />
       <item value="The set is backed by the map, so changes to the map are" />
       <item value="Returns a {@link Set} view of the keys contained in this map." />
       <item value=" Invalid Layer Save Flag - only ALL_SAVE_FLAGS is allowed" />
@@ -49,8 +51,6 @@
       <item value="Notify the host application that an SSL error occurred while loading a resource." />
       <item value="Notify the host application that an SSL error occurred while loading a resource. The host application must call either handler.cancel() or handler.proceed(). Note that the decision may be retained for use in response to future SSL errors. The default behavior is to cancel the load" />
       <item value="An XML start tag was read." />
-      <item value="Th following event types are seen by next()" />
-      <item value="The int value returned from next determines the current parser state and is identical to the value returned from following calls to getEventType ()." />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623835342345" />
+    <option name="lastTrimTime" value="1625472006058" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
