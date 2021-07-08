@@ -99,6 +99,21 @@
         <entry key="appmqtt/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="appmqtt/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="appmqtt/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="kpcplib/src/main/res/drawable/ic_launcher_background.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kp_toast_bg.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kpcp_btn_phone_code.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kpcp_btn_white_withdraw_radiogroup.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_alipay_title_bg.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_bg.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_btn_bg.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_btncancel_bg.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_edit_bg.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_pay_back.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_payerr_icon.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_paysucc_bg.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_paysucc_btn.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_paysucc_icon.xml" value="0.23229166666666667" />
+        <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_wechat_title_bg.xml" value="0.23229166666666667" />
         <entry key="kpcplib/src/main/res/layout/activity_main.xml" value="0.16394927536231885" />
         <entry key="kpcplib/src/main/res/layout/kpcp_activity_pay.xml" value="0.1" />
         <entry key="kpcplib/src/main/res/layout/kpcp_activity_webview.xml" value="0.1" />
