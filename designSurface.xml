@@ -82,8 +82,8 @@
         <entry key="app/src/main/res/layout/gb_floating_view_layout.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/home_item_grid3.xml" value="0.1213768115942029" />
         <entry key="app/src/main/res/layout/home_item_grid4.xml" value="0.1213768115942029" />
-        <entry key="app/src/main/res/layout/home_item_list.xml" value="0.11322188449848024" />
-        <entry key="app/src/main/res/layout/home_item_title.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/home_item_list.xml" value="0.13405797101449277" />
+        <entry key="app/src/main/res/layout/home_item_title.xml" value="0.13405797101449277" />
         <entry key="app/src/main/res/layout/item_main.xml" value="0.1852355072463768" />
         <entry key="app/src/main/res/layout/loading_view.xml" value="0.12228260869565218" />
         <entry key="app/src/main/res/layout/page_loading.xml" value="0.11322188449848024" />
@@ -93,7 +93,7 @@
         <entry key="app/src/main/res/layout/search_item_text.xml" value="0.13405797101449277" />
         <entry key="app/src/main/res/layout/search_item_title.xml" value="0.13405797101449277" />
         <entry key="app/src/main/res/layout/slogin_foot_view.xml" value="0.11322188449848024" />
-        <entry key="app/src/main/res/layout/splash_activity.xml" value="0.13677536231884058" />
+        <entry key="app/src/main/res/layout/splash_activity.xml" value="0.335" />
         <entry key="app/src/main/res/layout/splash_activity2.xml" value="0.1852355072463768" />
         <entry key="app/src/main/res/layout/submit_role.xml" value="0.19429347826086957" />
         <entry key="app/src/main/res/layout/titlebar.xml" value="0.11322188449848024" />
