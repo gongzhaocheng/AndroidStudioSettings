@@ -51,9 +51,9 @@
         <entry key="app/src/main/res/drawable/dialog_privacy_bg.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/download_float_btn.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/home_item_grid3_text_bg.xml" value="0.24791666666666667" />
-        <entry key="app/src/main/res/drawable/home_round_bg.xml" value="0.22870370370370371" />
+        <entry key="app/src/main/res/drawable/home_round_bg.xml" value="0.1685185185185185" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1685185185185185" />
-        <entry key="app/src/main/res/drawable/shape_gradient.xml" value="0.22870370370370371" />
+        <entry key="app/src/main/res/drawable/shape_gradient.xml" value="0.1685185185185185" />
         <entry key="app/src/main/res/drawable/shape_stroke.xml" value="0.1685185185185185" />
         <entry key="app/src/main/res/layout/activity_about.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/activity_account.xml" value="0.11322188449848024" />
@@ -88,7 +88,7 @@
         <entry key="app/src/main/res/layout/home_item_list.xml" value="0.13405797101449277" />
         <entry key="app/src/main/res/layout/home_item_title.xml" value="0.13405797101449277" />
         <entry key="app/src/main/res/layout/item_main.xml" value="0.1852355072463768" />
-        <entry key="app/src/main/res/layout/item_main2.xml" value="0.15896739130434784" />
+        <entry key="app/src/main/res/layout/item_main2.xml" value="0.11727456940222898" />
         <entry key="app/src/main/res/layout/loading_view.xml" value="0.12228260869565218" />
         <entry key="app/src/main/res/layout/page_loading.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/paycfg.xml" value="0.19746376811594202" />
@@ -97,7 +97,7 @@
         <entry key="app/src/main/res/layout/search_item_text.xml" value="0.13405797101449277" />
         <entry key="app/src/main/res/layout/search_item_title.xml" value="0.13405797101449277" />
         <entry key="app/src/main/res/layout/slogin_foot_view.xml" value="0.11322188449848024" />
-        <entry key="app/src/main/res/layout/splash_activity.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/splash_activity.xml" value="0.12335359675785208" />
         <entry key="app/src/main/res/layout/splash_activity2.xml" value="0.1852355072463768" />
         <entry key="app/src/main/res/layout/submit_role.xml" value="0.19429347826086957" />
         <entry key="app/src/main/res/layout/titlebar.xml" value="0.11322188449848024" />
