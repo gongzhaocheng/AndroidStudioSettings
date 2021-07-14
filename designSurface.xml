@@ -50,9 +50,13 @@
         <entry key="app/src/main/res/drawable/cloud_phone_running_tips_bg.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/dialog_privacy_bg.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/download_float_btn.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/drawable/gb_floating_view_bg.xml" value="0.2722222222222222" />
         <entry key="app/src/main/res/drawable/home_item_grid3_text_bg.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/home_round_bg.xml" value="0.29074074074074074" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1685185185185185" />
+        <entry key="app/src/main/res/drawable/progress_img_bg.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/drawable/progress_img_pro.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/drawable/search_edit_bg.xml" value="0.2722222222222222" />
         <entry key="app/src/main/res/drawable/shape_gradient.xml" value="0.1685185185185185" />
         <entry key="app/src/main/res/drawable/shape_stroke.xml" value="0.1685185185185185" />
         <entry key="app/src/main/res/layout/activity_about.xml" value="0.11322188449848024" />
