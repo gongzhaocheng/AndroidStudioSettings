@@ -51,40 +51,51 @@
         <entry key="app/src/main/res/drawable/card_round_bg.xml" value="0.225" />
         <entry key="app/src/main/res/drawable/cloud_phone_float_view_bg.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/cloud_phone_running_tips_bg.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/drawable/dialog_bkg.xml" value="0.2359375" />
         <entry key="app/src/main/res/drawable/dialog_privacy_bg.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/drawable/download_close_black_bg.xml" value="0.2359375" />
+        <entry key="app/src/main/res/drawable/download_close_black_bkg.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/download_float_btn.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/gb_floating_view_bg.xml" value="0.2722222222222222" />
         <entry key="app/src/main/res/drawable/home_item_grid3_text_bg.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/home_round_bg.xml" value="0.39010416666666664" />
-        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1685185185185185" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2359375" />
+        <entry key="app/src/main/res/drawable/loading_customer_bg.xml" value="0.2359375" />
+        <entry key="app/src/main/res/drawable/loading_more_rotate.xml" value="0.2359375" />
+        <entry key="app/src/main/res/drawable/loading_progress_rotate.xml" value="0.2359375" />
         <entry key="app/src/main/res/drawable/progress_img_bg.xml" value="0.2722222222222222" />
         <entry key="app/src/main/res/drawable/progress_img_pro.xml" value="0.2722222222222222" />
         <entry key="app/src/main/res/drawable/round_btn.xml" value="0.1984375" />
         <entry key="app/src/main/res/drawable/search_edit_bg.xml" value="0.2722222222222222" />
         <entry key="app/src/main/res/drawable/shape_gradient.xml" value="0.2638888888888889" />
         <entry key="app/src/main/res/drawable/shape_stroke.xml" value="0.2638888888888889" />
+        <entry key="app/src/main/res/drawable/translucent_btn.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout-land/view_customer_loading.xml" value="0.18694885361552027" />
         <entry key="app/src/main/res/layout/activity_about.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/activity_account.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/activity_cloudphone_running.xml" value="0.129981884057971" />
+        <entry key="app/src/main/res/layout/activity_dialog_half_trans.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/layout/activity_first.xml" value="0.17708333333333334" />
-        <entry key="app/src/main/res/layout/activity_home.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_horizontal_main.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.22083333333333333" />
+        <entry key="app/src/main/res/layout/activity_horizontal_main.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/layout/activity_iap.xml" value="0.18704710144927536" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.11322188449848024" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.36820652173913043" />
-        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.1852355072463768" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_play.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/activity_privacy_policy.xml" value="0.1213768115942029" />
         <entry key="app/src/main/res/layout/activity_search.xml" value="0.1213768115942029" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.375" />
         <entry key="app/src/main/res/layout/activity_terms.xml" value="0.1213768115942029" />
+        <entry key="app/src/main/res/layout/activity_xiaoyu_otherac.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/layout/cloud_phone_float_menu.xml" value="0.36820652173913043" />
-        <entry key="app/src/main/res/layout/cloud_phone_float_menu_panel.xml" value="0.1213768115942029" />
+        <entry key="app/src/main/res/layout/cloud_phone_float_menu_panel.xml" value="0.22083333333333333" />
+        <entry key="app/src/main/res/layout/dialog_download.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/layout/dialog_exit.xml" value="0.1671195652173913" />
         <entry key="app/src/main/res/layout/dialog_loading.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/dialog_privacy.xml" value="0.1213768115942029" />
         <entry key="app/src/main/res/layout/dialog_updatepwd.xml" value="0.1213768115942029" />
-        <entry key="app/src/main/res/layout/dialog_user_certification.xml" value="0.17527173913043478" />
+        <entry key="app/src/main/res/layout/dialog_user_certification.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/layout/download_float_area.xml" value="0.36820652173913043" />
         <entry key="app/src/main/res/layout/download_notification.xml" value="0.1213768115942029" />
         <entry key="app/src/main/res/layout/finished_dialog.xml" value="0.1213768115942029" />
@@ -92,15 +103,17 @@
         <entry key="app/src/main/res/layout/fragment_me.xml" value="0.1671195652173913" />
         <entry key="app/src/main/res/layout/game_list_item.xml" value="0.34739583333333335" />
         <entry key="app/src/main/res/layout/gamelist_activity.xml" value="0.1213768115942029" />
-        <entry key="app/src/main/res/layout/gb_floating_view_layout.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/gb_floating_view_layout.xml" value="0.22083333333333333" />
+        <entry key="app/src/main/res/layout/grid_game_item.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/layout/home_item_grid3.xml" value="0.1213768115942029" />
         <entry key="app/src/main/res/layout/home_item_grid4.xml" value="0.1213768115942029" />
         <entry key="app/src/main/res/layout/home_item_list.xml" value="0.16337386018237082" />
         <entry key="app/src/main/res/layout/home_item_title.xml" value="0.13405797101449277" />
-        <entry key="app/src/main/res/layout/item.xml" value="0.3446557971014493" />
+        <entry key="app/src/main/res/layout/item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_main.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/item_main2.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/loading_view.xml" value="0.12228260869565218" />
+        <entry key="app/src/main/res/layout/item_main2.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/loading_more.xml" value="0.22083333333333333" />
+        <entry key="app/src/main/res/layout/loading_view.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/layout/page_loading.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/pay_external.xml" value="0.12635869565217392" />
         <entry key="app/src/main/res/layout/pay_main.xml" value="0.12635869565217392" />
@@ -112,12 +125,17 @@
         <entry key="app/src/main/res/layout/search_item_remote_text.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/search_item_text.xml" value="0.13405797101449277" />
         <entry key="app/src/main/res/layout/search_item_title.xml" value="0.13405797101449277" />
+        <entry key="app/src/main/res/layout/settings_activity.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/layout/slogin_foot_view.xml" value="0.11322188449848024" />
         <entry key="app/src/main/res/layout/splash_activity.xml" value="0.12335359675785208" />
         <entry key="app/src/main/res/layout/splash_activity2.xml" value="0.1852355072463768" />
         <entry key="app/src/main/res/layout/submit_role.xml" value="0.19429347826086957" />
         <entry key="app/src/main/res/layout/titlebar.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/user_dialog.xml" value="0.22083333333333333" />
+        <entry key="app/src/main/res/layout/view_customer_loading.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.22037037037037038" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15" />
         <entry key="app/src/main/res/xml/root_preferences.xml" value="0.5" />
