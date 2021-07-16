@@ -48,7 +48,7 @@
         <entry key="app/src/main/res/drawable/button_bg.xml" value="0.3234375" />
         <entry key="app/src/main/res/drawable/button_bg2.xml" value="0.39010416666666664" />
         <entry key="app/src/main/res/drawable/button_gray_bg.xml" value="0.24791666666666667" />
-        <entry key="app/src/main/res/drawable/card_round_bg.xml" value="0.225" />
+        <entry key="app/src/main/res/drawable/card_round_bg.xml" value="0.39010416666666664" />
         <entry key="app/src/main/res/drawable/cloud_phone_float_view_bg.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/cloud_phone_running_tips_bg.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/dialog_bkg.xml" value="0.2359375" />
@@ -68,7 +68,7 @@
         <entry key="app/src/main/res/drawable/round_btn.xml" value="0.1984375" />
         <entry key="app/src/main/res/drawable/search_edit_bg.xml" value="0.2722222222222222" />
         <entry key="app/src/main/res/drawable/shape_gradient.xml" value="0.2638888888888889" />
-        <entry key="app/src/main/res/drawable/shape_stroke.xml" value="0.2638888888888889" />
+        <entry key="app/src/main/res/drawable/shape_stroke.xml" value="0.39010416666666664" />
         <entry key="app/src/main/res/drawable/translucent_btn.xml" value="0.2359375" />
         <entry key="app/src/main/res/layout-land/view_customer_loading.xml" value="0.18694885361552027" />
         <entry key="app/src/main/res/layout/activity_about.xml" value="0.11322188449848024" />
