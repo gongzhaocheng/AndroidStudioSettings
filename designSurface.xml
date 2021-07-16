@@ -102,6 +102,8 @@
         <entry key="app/src/main/res/layout/item_main2.xml" value="0.33" />
         <entry key="app/src/main/res/layout/loading_view.xml" value="0.12228260869565218" />
         <entry key="app/src/main/res/layout/page_loading.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/pay_external.xml" value="0.12635869565217392" />
+        <entry key="app/src/main/res/layout/pay_main.xml" value="0.12635869565217392" />
         <entry key="app/src/main/res/layout/paycfg.xml" value="0.19746376811594202" />
         <entry key="app/src/main/res/layout/recommend_card.xml" value="0.1" />
         <entry key="app/src/main/res/layout/recommend_content.xml" value="0.11503623188405797" />
