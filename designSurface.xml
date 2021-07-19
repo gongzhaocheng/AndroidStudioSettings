@@ -60,6 +60,7 @@
         <entry key="app/src/main/res/drawable/home_item_grid3_text_bg.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/drawable/home_round_bg.xml" value="0.39010416666666664" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2359375" />
+        <entry key="app/src/main/res/drawable/item_bg.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/loading_customer_bg.xml" value="0.2359375" />
         <entry key="app/src/main/res/drawable/loading_more_rotate.xml" value="0.2359375" />
         <entry key="app/src/main/res/drawable/loading_progress_rotate.xml" value="0.2359375" />
