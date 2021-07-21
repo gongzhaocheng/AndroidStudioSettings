@@ -175,9 +175,14 @@
         <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_paysucc_btn.xml" value="0.23229166666666667" />
         <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_paysucc_icon.xml" value="0.23229166666666667" />
         <entry key="kpcplib/src/main/res/drawable/kpcp_dialog_wechat_title_bg.xml" value="0.23229166666666667" />
-        <entry key="kpcplib/src/main/res/layout/activity_main.xml" value="0.16394927536231885" />
+        <entry key="kpcplib/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="kpcplib/src/main/res/layout/kp_toast_center.xml" value="0.12335359675785208" />
+        <entry key="kpcplib/src/main/res/layout/kpcp_activity_account.xml" value="0.12335359675785208" />
         <entry key="kpcplib/src/main/res/layout/kpcp_activity_pay.xml" value="0.1" />
-        <entry key="kpcplib/src/main/res/layout/kpcp_activity_webview.xml" value="0.1" />
+        <entry key="kpcplib/src/main/res/layout/kpcp_activity_remind.xml" value="0.12335359675785208" />
+        <entry key="kpcplib/src/main/res/layout/kpcp_activity_webview.xml" value="0.12335359675785208" />
+        <entry key="kpcplib/src/main/res/layout/kpcp_dialog_account.xml" value="0.12335359675785208" />
+        <entry key="kpcplib/src/main/res/layout/kpcp_dialog_exit.xml" value="0.12335359675785208" />
         <entry key="kpcplib/src/main/res/layout/kpcp_dialog_pay.xml" value="0.1" />
         <entry key="kpcplib/src/main/res/layout/kpcp_view_pay_order.xml" value="0.1" />
         <entry key="l07_Service/src/main/res/layout/activity_main.xml" value="0.12335359675785208" />
