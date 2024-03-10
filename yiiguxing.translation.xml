@@ -75,4 +75,12 @@
     </option>
     <option name="keepFormat" value="true" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1710061203098" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="No signature of method" />
+    </histories>
+  </component>
 </application>
